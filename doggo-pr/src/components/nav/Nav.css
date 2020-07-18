@@ -1,0 +1,13 @@
+.font {
+    font-family: 'Orbitron', sans-serif;
+}
+.logoColor {
+    color: grey;
+}
+.zoom:hover {
+    transform: scale(1.5);
+}
+.zoom {
+    margin: 12px;
+}
+

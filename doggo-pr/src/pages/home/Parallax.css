@@ -1,0 +1,44 @@
+body, html {
+    height: 100%;
+  }
+  
+  .parallax {
+    /* The image used */
+    background-image: url('./doggoFlavia.JPG');
+  
+    /* Full height */
+    height: 500px; 
+  
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+.paraText {
+    height: 750px;
+    background-color: white;
+    
+  
+  
+        font-size: 30px;
+        font-family: 'Kalam', cursive;
+   
+}
+.tila {
+    border: solid whitesmoke 12px;
+    border-radius: 55%;
+    box-shadow: 20px 20px rgba(0,0,0,.05);
+    margin-top: 100px;
+}
+.doggoColler {
+    border: solid whitesmoke 10px;
+    box-shadow: 20px 20px rgba(0,0,0,.05);
+    margin-bottom: 50px;
+    margin-top: 60px;
+}
+
+
+.bigBorder{
+    border: whitesmoke 10px solid;
+}
