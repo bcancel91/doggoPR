@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2a7ac2c720692d6c3dbafb43c8e33b5b",
+    "revision": "9551ca7b13bb7e2e78407fade6e8bb16",
     "url": "/doggoPR/index.html"
   },
   {
-    "revision": "26961e63ddfb37efacf5",
+    "revision": "d179e6e7da155a283395",
     "url": "/doggoPR/static/css/main.20bc27b3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/doggoPR/static/js/2.7f8e63a0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "26961e63ddfb37efacf5",
-    "url": "/doggoPR/static/js/main.4e0b3a4c.chunk.js"
+    "revision": "d179e6e7da155a283395",
+    "url": "/doggoPR/static/js/main.78a6a87f.chunk.js"
   },
   {
     "revision": "50a2a4d6365aed7c1a5b",
